@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to NATION OF ART
+
+A technology platform that is useful for displaying, offering, and promoting arts and cultural activities as well as the works of artists so that they are expected to be better known and raise the level of the community's economy for the better.
 
 You can use the [editor on GitHub](https://github.com/KOSASIH/Nation-Of-Art/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
